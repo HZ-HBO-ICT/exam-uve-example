@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "tile": "List of animals",
+    "date": "September 2024"
+  },
+  "animals": [
+    {
+      "id": 1, 
+      "name": "Henry",
+      "type": "Cat",
+      "time": "2:00pm"
+    },
+    {
+      "id": 2, 
+      "name": "Frederic",
+      "type": "Cat",
+      "time": "2:00pm"
+    },
+    {
+      "id": 3, 
+      "name": "Boris",
+      "type": "Spider",
+      "time": "2:00pm"
+    },
+    {
+      "id": 4, 
+      "name": "Henry",
+      "type": "Cat",
+      "time": "2:00pm"
+    },
+    {
+      "id": 5, 
+      "name": "Burt",
+      "type": "dog",
+      "time": "2:00pm"
+    },
+    {
+      "id": 6, 
+      "name": "Freddy",
+      "type": "Cat",
+      "time": "2:00pm"
+    },
+    {
+      "id": 7, 
+      "name": "Whoopsie",
+      "type": "Mouse",
+      "time": "2:00pm"
+    },
+    {
+      "id": 8, 
+      "name": "Drunkie",
+      "type": "Cat",
+      "time": "2:00pm"
+    },
+    {
+      "id": 9, 
+      "name": "Heehee",
+      "type": "Pig",
+      "time": "2:00pm"
+    },
+    {
+      "id": 10, 
+      "name": "David",
+      "type": "Pig",
+      "time": "2:00pm"
+    },
+    {
+      "id": 11, 
+      "name": "Dennis",
+      "type": "Dog",
+      "time": "2:00pm"
+    },
+    {
+      "id": 12, 
+      "name": "Boris",
+      "type": "Cow",
+      "time": "2:00pm"
+    },
+    {
+      "id": 12, 
+      "name": "Ace",
+      "type": "Cat",
+      "time": "2:00pm"
+    },
+    {
+      "id": 14, 
+      "name": "Frits",
+      "type": "Cat",
+      "time": "2:00pm"
+    },
+    {
+      "id": 15, 
+      "name": "Freye",
+      "type": "Dog",
+      "time": "2:00pm"
+    },
+    {
+      "id": 16, 
+      "name": "Grease",
+      "type": "Mouse",
+      "time": "2:00pm"
+    },
+    {
+      "id": 17, 
+      "name": "Darling",
+      "type": "Spider",
+      "time": "2:00pm"
+    },
+    {
+      "id": 18, 
+      "name": "Ferry",
+      "type": "Spider",
+      "time": "2:00pm"
+    }
+  ]
+}
