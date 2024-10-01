@@ -7,7 +7,8 @@ const db = await JSONFilePreset('db.json', defaultData)
 const animals = db.data.animals
 
 export async function getAllPets(req, res) {
-  res.status(200).send(animals);
+  const animalUrls = animals.map(animal => `/pets/${animal.id}`);
+  res.status(200).send(animalUrls);
 }
 
 export async function updatePet(req, res) {
